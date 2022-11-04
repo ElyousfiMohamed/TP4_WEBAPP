@@ -1,6 +1,6 @@
 pipeline {
 environment {
-registry = "elyousfi5/tp4_appweb"
+registry = "elyousfi5/tp4_webapp"
 registryCredential = 'dockerhub0'
 dockerImage = ''
 }
