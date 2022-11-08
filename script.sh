@@ -1,1 +1,1 @@
-docker run -d elyousfi5/tp4_webapp
+docker run -d -p 8888:80 elyousfi5/tp4_webapp
